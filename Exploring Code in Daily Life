@@ -1,26 +1,38 @@
 # Exploring Code in Daily Life
+# Maryam Mazroua
 
 - Code that specifies when an alarm clock should start making audible sounds.
 https://github.com/ROSHAN-KHANDAGALE/Alarm-Clock/blob/main/main.py Lines 6-17: this function will make an audible sound at the time that the user sets it to.
+
 - Code for a rocket targeting system.
 https://github.com/abnsl0014/Missile-Guidance-System/blob/1ea365516b0cfb1d75bcbc345ae49b89b03ef52d/testourmodel.py#L6 Lines 1-42: this code uses the missle location, prediction location, and actual coordinates of the flying object to calculate the velocity and acceleration of the missle. It also calculates the time needed for the missle to hit the object.
+
 - File compression utility algorithm.
 https://github.com/fabvalaaah/rlec/blob/master/src/bitmap.c#L55C1-L68C6 Lines 55-68: this code is compressing an image file.
+
 - Weather forecasting algorithm.
 https://github.com/aws-cloudformation/rain/blob/639bb9f22aba7a762a81635ae307f9c489ce9356/internal/cmd/forecast/forecast.go#L73 Lines 265-284: this code looks at data to determine whether or not it will be stormy.
+
 - E-commerce checkout system process.
 https://github.com/Riadz/E-commerce/blob/master/checkout.php#L53 Lines 24-39: this code goes through the payment process for items inside a user's cart.
+
 - Social media post scheduler.
 https://github.com/webspirit/social_media_poster/blob/master/app/views/posts/_form.html.erb Lines 11-14: this code asks for the timezone then schedules a post for the selected date and time.
+
 - Fitness app calorie counter.
 https://github.com/zupzup/calories/blob/main/util/util.go Lines 41-54: this code calculates the metabolic rate of a person given their age, height, weight, level of activity, and gender.
+
 - Online voting system mechanics.
 https://github.com/shah-deep/Online-Voting-System/blob/main/VotingPage.py Lines 11-21: this code registers votes to the intended server then processes them.
+
 - Automated email response system.
 https://github.com/PrajwalCC/mail-auto-reply-system/blob/master/index.js#L16 Lines 5-72: this code contains a format for an automated email response specific to the sender. 
+
 - Crossword puzzle generator.
 https://github.com/riverrun/genxword/blob/5442cb3e32f784c8cc6a3cfc0c8fbc0679b680f2/genxword/calculate.py#L31 Lines 31-271: this code generates a crossword puzzle and uses coordinates of the letters to align with the clues.
+
 - Text to speech 
 https://github.com/rincemathew/Speech-Text-Reader-Speech-Synthesis/blob/master/script.js Lines 105-113: this code reads out text from a browser.
+
 - Facetime caller information display 
 https://github.com/odi-so/FaceTimeCallerInfo/blob/master/FaceTimeCallerInfo.applescript Lines 7-32: this code shows the callers id of someone calling you.
